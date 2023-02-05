@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(223, 246, 255);
+}
+#obito{
+    float: left;
+    margin: 0 5px 5px  5px
+}
+#MadaraXobito{
+    float: right;
+    margin: 5px;
+}
+hr{
+    background-color: none !important;
+    border:none !important;
+    border-top: 5px dotted #70c1bb !important;
+    border-top-width:0px;
+    border-right-width:0px;
+    border-bottom-width:0px;
+    border-left-width:0px;
+    width: 10%;
+}
+h1{
+    color: rgb(21, 52, 98);
+}
+h3{
+    color: rgb(21, 52, 98);
+}
+h2{
+    color: rgb(21, 52, 98);
+}
+img{
+    background-color: rebeccapurple;
+}
